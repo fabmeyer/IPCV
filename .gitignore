@@ -1,4 +1,9 @@
 .pdf
 .DS_Store
 *.pdf
+*.m
+*.tif
+*.jpg
+*.png
 SW04/imdemos/
+SW05/imdemos/
